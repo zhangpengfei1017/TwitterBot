@@ -1,0 +1,11 @@
+[
+	{"eventName":"start",
+	"eventTime":"+00:00",
+	"message":"It is time for Game Jam!"},	
+	{"eventName":"end",
+	"eventTime":"-00:00",
+	"message":"Time is up!"},
+	{"eventName":"half-time",
+	"eventTime":"%50",
+	"message":"Time has passed half！"}
+]
